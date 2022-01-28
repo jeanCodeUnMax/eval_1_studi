@@ -1,2 +1,1 @@
-# eval_1_studi
-realiserun site vitrine css/html
+# Créer un site web avec HTML, CSS et Bootstrap
